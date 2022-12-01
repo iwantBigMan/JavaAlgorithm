@@ -1,4 +1,4 @@
-import com.sun.tools.javac.Main;
+package programmers;
 
 public class ABC {
     public String solution4(String characters){

@@ -1,4 +1,4 @@
-import com.sun.tools.javac.Main;
+package programmers;
 
 public class Rank {
     public int solution2(int price, String grade) {

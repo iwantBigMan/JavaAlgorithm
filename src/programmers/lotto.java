@@ -1,7 +1,8 @@
+package programmers;
+
 import java.io.BufferedReader;
 import java.io.IOException;
 import java.io.InputStreamReader;
-import java.util.ArrayList;
 
 public class lotto {
     public int[] l(int[] lottos, int[] win_nums) {

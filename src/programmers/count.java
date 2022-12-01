@@ -1,4 +1,4 @@
-import com.sun.tools.javac.Main;
+package programmers;
 
 public class count {
     public int solution3(int[] scores) {
